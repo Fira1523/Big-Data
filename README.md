@@ -1,4 +1,5 @@
 # Big Data Assignment
+prepared By : Firomsa Fekadu    ID No: DBU/041/14
 
 ## Overview
 This project involves the analysis of a large e-commerce dataset, utilizing Big Data techniques and tools to extract meaningful insights. The data, which contains over a million records, is processed using PySpark, transformed, and stored in DuckDB. Visualizations and insights are presented using Power BI, connected to DuckDB through a Python script.
